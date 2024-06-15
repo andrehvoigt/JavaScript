@@ -1,0 +1,32 @@
+@charset 'UTF-8';
+
+
+main{
+   background-color: white;
+   border-radius: 10px;
+   box-shadow: 5px 5px 15px #1d1b187a;
+   width: 600px;
+   padding: 10px;
+   margin: auto;
+}
+
+
+body{
+    font: normal 16px Arial, Verdana, serif;
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+
+}
+   
